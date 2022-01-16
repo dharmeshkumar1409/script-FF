@@ -1,6 +1,7 @@
 # script-FF
 
 This is a AutoHotKey file, made for free fire auto headshot. You need to follow the steps for the working of above file.
+
 """ Note:- This is only for PC. """
 
 1. Download AutoHotKey from https://www.autohotkey.com/  (Download Current Version).
