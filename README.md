@@ -50,3 +50,5 @@ You need to follow the steps for the working of above file.
 13. To Stop it from running you can right click on the 'S' sign and click Exit.
 
 ![image](https://user-images.githubusercontent.com/73641326/149650123-396a13ca-0209-49d8-bca9-2ecde4045094.png)
+
+14. You can now enjoy the Auto Headshot In Free Fire, but you need to adjust the sensitivity settings in you Emulator to match the best Headshot.
