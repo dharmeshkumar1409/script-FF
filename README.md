@@ -4,7 +4,7 @@ This is a AutoHotKey file, made for free fire auto headshot. You need to follow 
 
 """ Note:- This is only for PC. """
 
-## Installation process
+## Installation process & working
 
 >1. Download AutoHotKey from https://www.autohotkey.com/  (Download Current Version).
 
