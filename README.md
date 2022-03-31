@@ -54,4 +54,4 @@ This is a AutoHotKey file, made for free fire auto headshot. You need to follow 
 
 ![image](https://user-images.githubusercontent.com/73641326/149650123-396a13ca-0209-49d8-bca9-2ecde4045094.png)
 
->14. You can now enjoy the Auto Headshot In Free Fire, but you need to adjust the sensitivity settings in you Emulator to match the best Headshot.
+# > 14. You can now enjoy the Auto Headshot In Free Fire, but you need to adjust the sensitivity settings in you Emulator to match the best sensitivity for the perfect onetap Headshot.
